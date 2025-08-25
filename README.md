@@ -1,4 +1,4 @@
-<h1 align="center">Hello There 👋</h1>
+<h1 align="center">Hi, I’m Shehab—a frontend-focused developer skilled in React, TypeScript, Go, and UI/UX design. I’m passionate about building clean, modern interfaces and bridging user needs with backend systems.</h1>
 
 ###
 
